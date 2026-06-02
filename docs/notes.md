@@ -33,3 +33,4 @@ Notes and usage details for Divi5-ToolKit.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
